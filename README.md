@@ -14,7 +14,7 @@ I architect it, build it, debug it, and ship it.
 
 - 💻 I enjoy backend more than frontend  
 - ☕︎ I like both coffee & tea
-- 🌙 I sometimes code late into the night  
+- 🌙 I sometimes code late into the night and early in the morning
 - 🧠 I like building things that challenge me  
 
 ---
