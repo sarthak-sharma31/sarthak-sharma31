@@ -10,18 +10,6 @@ I architect it, build it, debug it, and ship it.
 
 ---
 
-## 🛠 What I Like Building
-
-- Full-stack web applications
-- Backend-heavy systems
-- Real-time features
-- Authentication systems
-- Projects that solve real-world problems
-
-I build to understand — not just to finish.
-
----
-
 ## ⚡ Fun Facts
 
 - 💻 I enjoy backend more than frontend  
