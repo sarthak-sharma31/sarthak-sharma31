@@ -22,20 +22,6 @@ I build to understand — not just to finish.
 
 ---
 
-## 📌 About My Projects
-
-Each pinned repository represents something I learned deeply while building it.
-
-I care about:
-- Clean logic
-- Structured code
-- Scalability
-- Real-world usability
-
-Still learning. Always building.
-
----
-
 ## ⚡ Fun Facts
 
 - 💻 I enjoy backend more than frontend  
